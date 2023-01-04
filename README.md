@@ -46,4 +46,4 @@ OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/CyberSecurityUP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama1277&langs_count=8)](https://github.com/rama1277/github-readme-stats)
