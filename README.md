@@ -41,10 +41,6 @@ OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rama1277)](https://github.com/rama1277)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisnu-muhammad-ramadhan-a118b1211/)](https://www.linkedin.com/in/wisnu-muhammad-ramadhan-a118b1211/)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/LimitCyber)](https://twitter.com/LimitCyber)
-
 ## Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/CyberSecurityUP/github-readme-stats)
