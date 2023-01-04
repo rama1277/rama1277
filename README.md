@@ -37,7 +37,7 @@ OSCP/OSWP, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2, eCXD, eCPPT, eCPTX, CRTO
 
 ## Social Networks
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CyberSecurityUP)](https://github.com/CyberSecurityUP)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rama1277)](https://github.com/rama1277)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisnu-muhammad-ramadhan-a118b1211/)](https://www.linkedin.com/in/wisnu-muhammad-ramadhan-a118b1211/)
 
