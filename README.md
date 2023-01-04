@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### I'm Rama
 
-Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+Red Team Expert | InfoSec | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
-OSCP/OSWP, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2, eCXD, eCPPT, eCPTX, CRTO 
+OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 
 <br>
 
