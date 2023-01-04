@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @rama1277's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rama1277)](https://holopin.io/@rama1277)
+
 ### I'm Rama
 
 Red Team Expert | InfoSec | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
 OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
-
+[![An image of @rama1277's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rama1277)](https://holopin.io/@rama1277)
 <br>
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
