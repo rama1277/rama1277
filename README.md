@@ -27,7 +27,7 @@ OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 
 </br>
 
-[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark)](https://github.com/CyberSecurityUP/github-readme-stats)
+[![rama1277 GitHub stats](https://github-readme-stats.vercel.app/api?username=rama1277&theme=dark)](https://github.com/rama1277/github-readme-stats)
 
 :computer: I'm UI&UX Design in Startupereneur Academy .
 
