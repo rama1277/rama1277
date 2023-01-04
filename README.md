@@ -24,6 +24,7 @@ OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 <br>
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"> 
+<img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="300"
 </br>
 
 [![rama1277 GitHub stats](https://github-readme-stats.vercel.app/api?username=rama1277&theme=dark)](https://github.com/rama1277/github-readme-stats)
