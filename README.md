@@ -26,7 +26,7 @@ OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"> <img src="https://media.giphy.com/media/3o72F0PI3TAjfN3j3y/giphy.gif" width="300"> 
 </br>
 
-[![rama1277 GitHub stats](https://github-readme-stats.vercel.app/api?username=rama1277&theme=dark)](https://github.com/rama1277/github-readme-stats)
+
 
 :computer: I'm UI&UX Design in Startupereneur Academy .
 
@@ -47,4 +47,3 @@ OSCP/OSWP, CEH Medium, Bug Bounty, Pentester
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama1277&langs_count=8)](https://github.com/rama1277/github-readme-stats)
