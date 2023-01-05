@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Rama
 
-Red Team Expert | InfoSec | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor 
+Red Team Expert | InfoSec | OWASP Member | Speaker and Teaching | Article Writer | Mitre Att&ck Contributor 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/rama.dubber/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ramadubber/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisnu-muhammad-ramadhan-a118b1211/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LimitCyber) 
 
